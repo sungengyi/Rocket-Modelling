@@ -1,2 +1,6 @@
 # Rocket-Modelling
-McGill Rocket Team
+Engine Modelling -- McGill Rocket Team
+|  |Tank                                         |Injector                 |C.C                  |Nozzle                   |
+|:--------------| :----------------------------------------- | :---------------------- | :------------------ | :---------------------- |
+|Input|     PMT(init)                 |                   |       |
+|Output|                         |                   |       |
