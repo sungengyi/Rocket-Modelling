@@ -1,7 +1,4 @@
 # Rocket-Modelling
 Engine Modelling -- McGill Rocket Team
 
-|  |Tank                                         |Injector                 |C.C                  |Nozzle                   |
-|:--------------| :----------------------------------------- | :---------------------- | :------------------ | :---------------------- |
-|Input|     PMT(init)                 |                   |       | |
-|Output|                         |                   |       |  |
+### The updates on this repo will be in @McgillRocketTeam : Rocket Modelling. Please do not clone/pull/push from/to this repo.
